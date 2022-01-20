@@ -15400,33 +15400,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4370936683102067651, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
-      propertyPath: runSpeed
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4370936683102067651, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
-      propertyPath: jumpSpeed
-      value: 20
-      objectReference: {fileID: 0}
     - target: {fileID: 4665055612523305692, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
       propertyPath: m_Name
       value: Ginger (Player)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4665055612523305692, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
-      propertyPath: m_Layer
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 4665055612523305696, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: 3deddf7f8c21fdb4392c023c98bd4c9a, type: 2}
-    - target: {fileID: 4665055612523305697, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
-      propertyPath: m_GravityScale
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4665055612523305697, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4665055612523305699, guid: addf4be974337cb4ebfb92f60d61ebfa, type: 3}
       propertyPath: m_RootOrder
