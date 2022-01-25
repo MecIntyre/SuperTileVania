@@ -265,6 +265,17 @@
                 },
                 {
                     "name": "",
+                    "id": "07b05b46-630b-4cae-94ae-b07014ff9b96",
+                    "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "0c0b8b41-1243-4c5d-9ab8-31fcb65fd63a",
                     "path": "<Keyboard>/space",
                     "interactions": "",
