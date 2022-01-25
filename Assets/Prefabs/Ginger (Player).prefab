@@ -154,7 +154,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 4665055612523305692}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 3deddf7f8c21fdb4392c023c98bd4c9a, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -217,6 +217,8 @@ MonoBehaviour:
   jumpSpeed: 20
   climbSpeed: 5
   deathKick: {x: 20, y: 20}
+  bullet: {fileID: 3483936259069134377, guid: c795d485f8e7a614988b51418bbc3ca3, type: 3}
+  gun: {fileID: 92343022731849717}
 --- !u!1 &5431253029686103002
 GameObject:
   m_ObjectHideFlags: 0
